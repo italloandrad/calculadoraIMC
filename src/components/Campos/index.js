@@ -148,7 +148,7 @@ const styles = StyleSheet.create({
     },
     modalText: {
         padding:10,
-        margin: 10,
+        margin: 30,
         marginBottom: 15,
         textAlign: "center",
         fontFamily: "MontserratRegular",
